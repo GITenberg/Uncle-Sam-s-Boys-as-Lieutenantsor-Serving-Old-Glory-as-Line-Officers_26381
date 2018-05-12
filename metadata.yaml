@@ -1,0 +1,28 @@
+_repo: Uncle-Sam-s-Boys-as-Lieutenantsor-Serving-Old-Glory-as-Line-Officers_26381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26381-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2008-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States. Army -- Juvenile fiction'
+title: Uncle Sam's Boys as Lieutenants; or, Serving Old Glory as Line Officers
+url: http://www.gutenberg.org/ebooks/26381
